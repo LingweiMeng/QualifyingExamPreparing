@@ -2,6 +2,7 @@
 A private repo help us Prepare Qualifying Exam.
 
 ## Issues format example：
+不会的、需要讨论的题目提issue，完全解决后关闭。issue形式如下
 
 **title**: OR19, Q3
 
