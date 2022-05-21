@@ -1,8 +1,8 @@
 # QualifyingExamPreparing
 A private repo help us Prepare Qualifying Exam.
 
-Issues format example：
+## Issues format example：
 
-title: OR19, Q3
+**title**: OR19, Q3
 
-comment: screenshot of the question
+**comment**: screenshot of the question
