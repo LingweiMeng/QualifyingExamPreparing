@@ -15,6 +15,6 @@
     -
 
 ### Text Mining
-    - [PPT of text mining](https://www1.se.cuhk.edu.hk/~seem5680/) 
+    - PPT of text mining [Link](https://www1.se.cuhk.edu.hk/~seem5680/) 
     - several quiz question in SEEM5680
 
