@@ -19,3 +19,10 @@ A private repo help us Prepare Qualifying Exam.
 - IR：SEEM5680 by Lam Wai
 
 OR：ENGG5501 by Anthony So
+
+## 考试时间
+|  Date   | AM  | PM |
+|  ----  | ----  | ---- |
+| June 1  | Stochastic Modeling (9 am – 12 noon) | Stochastic Calculus (2 pm – 5 pm) |
+| June 2  | Information Systems (9 am – 12 noon) | Operations Research (2 pm – 5 pm) |
+
