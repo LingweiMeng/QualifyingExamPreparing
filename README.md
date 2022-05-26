@@ -26,3 +26,15 @@ OR：ENGG5501 by Anthony So
 | June 1  | Stochastic Modeling (9 am – 12 noon) | Stochastic Calculus (2 pm – 5 pm) |
 | June 2  | Information Systems (9 am – 12 noon) | Operations Research (2 pm – 5 pm) |
 
+
+PhD Candidacy Exam 2022 - Information Systems (2 June, 9 am – 12 noon)
+https://cuhk.zoom.us/j/93674929849?pwd=RWZaVGYreU11bmszK3g2VXBVL3V4Zz09
+ 
+Meeting ID: 936 7492 9849
+Passcode: 639554
+ 
+PhD Candidacy Exam 2022 - Operations Research (2 June, 2 pm – 5 pm)
+https://cuhk.zoom.us/j/95382396749?pwd=c0lkWWNLaDVhckVocDcxRWZjOEh4Zz09
+ 
+Meeting ID: 953 8239 6749
+Passcode: 433454
