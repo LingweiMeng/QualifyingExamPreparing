@@ -13,7 +13,10 @@
 ### Quesiton 4 (Database):
 - Refer to Jiawen' s solution
 
-### Quesiton 5 (Information Retrival):
+### Question 5 (Data Mining)
+- Refer to IS 2019. Similar question
+- 
+### Quesiton 6 (Information Retrival):
 - Rocchio Classification: Book(Chinese) \#Page 204, Chapter 14.2 (Rocchio classification drawbacks).
 - Boolean Retrival: Book(Chinese) \#Page 8, Chapter 1.3 (INTERSECT, UNION).
 - idf: Book(Chinese) \#Page 82, Chapter 6.2 (base of logarithm).
