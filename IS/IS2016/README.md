@@ -14,8 +14,8 @@
 - Refer to Jiawen' s solution
 
 ### Question 5 (Data Mining)
-- Refer to IS 2019. Similar question
-- 
+- Refer to folder IS 2019. Similar question
+
 ### Quesiton 6 (Information Retrival):
 - Rocchio Classification: Book(Chinese) \#Page 204, Chapter 14.2 (Rocchio classification drawbacks).
 - Boolean Retrival: Book(Chinese) \#Page 8, Chapter 1.3 (INTERSECT, UNION).
