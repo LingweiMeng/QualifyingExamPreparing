@@ -16,9 +16,11 @@ A private repo help us Prepare Qualifying Exam.
 - OS：看书
 - DM：FTEC4003 by Sibo Wang
 - Database: SEEM3550 by Hong Cheng
-- IR：SEEM5680 by Lam Wai
+- IR：SEEM5680 by Lam Wai, 书
 
-OR：ENGG5501 by Anthony So
+OR：ENGG5501 Handouts or lecture_notes by Anthony So
+
+Boyang上传的IS手写notes
 
 ## 考试时间
 |  Date   | AM  | PM |
